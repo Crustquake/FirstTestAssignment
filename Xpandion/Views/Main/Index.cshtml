@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Main Page";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="text-center">
+            <h1 class="display-4">Welcome</h1>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="text-center">
+            <form id="form" method="post" enctype="multipart/form-data">
+                <input type="file" name="files" id="files_input" webkitdirectory="" directory="" style="display: none;" onchange="$('#form').submit();">
+                <label class="btn btn-primary" for="files_input">Click me to select folder with csv-files</label>
+                <input type="file" accept=".csv" name="files" id="one_file_input" style="display: none;" onchange="$('#form').submit();">
+                <label class="btn btn-primary" for="one_file_input">Click me to select one csv-file</label>
+            </form>
+        </div>
+    </div>
+</div>

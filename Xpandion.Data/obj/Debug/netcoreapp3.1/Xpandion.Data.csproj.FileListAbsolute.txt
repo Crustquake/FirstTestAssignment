@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\bin\Debug\netcoreapp3.1\Xpandion.Data.deps.json
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\bin\Debug\netcoreapp3.1\Xpandion.Data.dll
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\obj\Debug\netcoreapp3.1\Xpandion.Data.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\obj\Debug\netcoreapp3.1\Xpandion.Data.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\obj\Debug\netcoreapp3.1\Xpandion.Data.AssemblyInfo.cs
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\bin\Debug\netcoreapp3.1\Xpandion.Data.pdb
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\obj\Debug\netcoreapp3.1\Xpandion.Data.dll
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\obj\Debug\netcoreapp3.1\Xpandion.Data.pdb
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\bin\Debug\netcoreapp3.1\Xpandion.Data.runtimeconfig.json
+D:\Programming\Visual Studio\Xpandion\Xpandion.Data\bin\Debug\netcoreapp3.1\Xpandion.Data.runtimeconfig.dev.json
